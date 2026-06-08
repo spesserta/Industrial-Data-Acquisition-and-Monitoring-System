@@ -1,0 +1,6 @@
+C:\Users\Legion\Desktop\Industrial-DataAcquisitionAndMonitoringSystem\Zhaoxi.Communication\bin\Debug\Zhaoxi.Communication.dll
+C:\Users\Legion\Desktop\Industrial-DataAcquisitionAndMonitoringSystem\Zhaoxi.Communication\bin\Debug\Zhaoxi.Communication.pdb
+C:\Users\Legion\Desktop\Industrial-DataAcquisitionAndMonitoringSystem\Zhaoxi.Communication\obj\Debug\Communication.csproj.AssemblyReference.cache
+C:\Users\Legion\Desktop\Industrial-DataAcquisitionAndMonitoringSystem\Zhaoxi.Communication\obj\Debug\Communication.csproj.CoreCompileInputs.cache
+C:\Users\Legion\Desktop\Industrial-DataAcquisitionAndMonitoringSystem\Zhaoxi.Communication\obj\Debug\Zhaoxi.Communication.dll
+C:\Users\Legion\Desktop\Industrial-DataAcquisitionAndMonitoringSystem\Zhaoxi.Communication\obj\Debug\Zhaoxi.Communication.pdb

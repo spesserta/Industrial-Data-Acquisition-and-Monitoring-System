@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Legion\\Desktop\\DataAcquisitionAndMonitoringSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58107610-8FAB-4A1E-9762-8BA9664BCC3A}|Zhaoxi.Industrial\\IndustrialDataAcquisitionAndMonitoringSystem.csproj|c:\\users\\legion\\desktop\\dataacquisitionandmonitoringsystem\\zhaoxi.industrial\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{58107610-8FAB-4A1E-9762-8BA9664BCC3A}|Zhaoxi.Industrial\\IndustrialDataAcquisitionAndMonitoringSystem.csproj|solutionrelative:zhaoxi.industrial\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58107610-8FAB-4A1E-9762-8BA9664BCC3A}|Zhaoxi.Industrial\\IndustrialDataAcquisitionAndMonitoringSystem.csproj|C:\\Users\\Legion\\Desktop\\DataAcquisitionAndMonitoringSystem\\zhaoxi.industrial\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{58107610-8FAB-4A1E-9762-8BA9664BCC3A}|Zhaoxi.Industrial\\IndustrialDataAcquisitionAndMonitoringSystem.csproj|solutionrelative:zhaoxi.industrial\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\DataAcquisitionAndMonitoringSystem\\Zhaoxi.Industrial\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Zhaoxi.Industrial\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Legion\\Desktop\\DataAcquisitionAndMonitoringSystem\\Zhaoxi.Industrial\\MainWindow.xaml",
+              "RelativeToolTip": "Zhaoxi.Industrial\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-08T01:37:40.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\DataAcquisitionAndMonitoringSystem\\Zhaoxi.Industrial\\App.config",
+              "RelativeDocumentMoniker": "Zhaoxi.Industrial\\App.config",
+              "ToolTip": "C:\\Users\\Legion\\Desktop\\DataAcquisitionAndMonitoringSystem\\Zhaoxi.Industrial\\App.config",
+              "RelativeToolTip": "Zhaoxi.Industrial\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-06-08T01:35:51.484Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
