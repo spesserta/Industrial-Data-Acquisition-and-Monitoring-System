@@ -4,7 +4,7 @@
 
 * 开发语言：C# <br>
 * UI界面：WPF  <br>
-* 架构：SCADA
+* 架构：SCADA 
 * 通信协议：ModbusRTU
 * 数据库：SQL Server 2026<br>
 * 数据库工具：SQL Server Management Studio 2022<br>
