@@ -59,7 +59,8 @@ DataAcquisitionAndMonitoringSystem/
 
 启动界面：
 
-<img width="1298" height="751" alt="image" src="https://github.com/user-attachments/assets/60c21a00-c7dd-4ff0-a751-0d23c3f5424f" />
+<img width="1301" height="749" alt="image" src="https://github.com/user-attachments/assets/a48b8c50-e37c-479b-be0d-2495b02f6dae" />
+
 
 该项目采用串口通信，在启动项目后需要使用VSPD新建COM1和COM2这一对串口，然后该程序模拟上位机采用COM1串口，Modbus Slave软件采用COM2串口，在打开Slave软件后点击设置，将从站ID设置位1（1号冷却塔），存储区设置位03保持寄存器、首地址为0、长度为36
 
@@ -67,7 +68,8 @@ DataAcquisitionAndMonitoringSystem/
 
 设置完后点击连接，串口号选择COM2，当连接成功后界面更新为如下效果：
 
-<img width="1299" height="746" alt="image" src="https://github.com/user-attachments/assets/945d740e-4ff5-4294-a66a-1c6fe60e2769" />
+<img width="1298" height="748" alt="image" src="https://github.com/user-attachments/assets/5e66b4fe-a426-42f5-9090-de4cd3613a45" />
+
 
 现在往保持寄存器里面填数据模拟PLC数据的变化，将数据格式设置为Float型大端AB CD，往里面填数值如下：
 
@@ -76,7 +78,8 @@ DataAcquisitionAndMonitoringSystem/
 
 此时该程序会将PCL设置好的数值实时更新到UI界面中，当数值过高或者过低的时候，下方将出现报警信息，例如下图中的“冷却塔1#的入口压力极高。当前值：100”
 
-<img width="1296" height="745" alt="image" src="https://github.com/user-attachments/assets/82af6d22-0abb-41f5-b479-769c434edac6" />
+<img width="1295" height="745" alt="image" src="https://github.com/user-attachments/assets/44ef1814-d0b0-42f9-a997-dbb97026ef05" />
+
 
 
 
