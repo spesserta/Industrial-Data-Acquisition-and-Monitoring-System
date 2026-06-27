@@ -14,7 +14,7 @@
 
 ### 二、运行展示
 
-##### 从站数据采集
+#### 从站数据采集
 
 启动界面：
 
@@ -39,7 +39,7 @@
 
 <img width="1295" height="745" alt="image" src="https://github.com/user-attachments/assets/44ef1814-d0b0-42f9-a997-dbb97026ef05" />
 
-##### 报警管理
+#### 报警管理
 
 主页点击报警管理即可进入界面
 
