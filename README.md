@@ -14,6 +14,8 @@
 
 ### 二、运行展示
 
+##### 从站数据采集
+
 启动界面：
 
 <img width="1301" height="749" alt="image" src="https://github.com/user-attachments/assets/a48b8c50-e37c-479b-be0d-2495b02f6dae" />
@@ -37,6 +39,16 @@
 
 <img width="1295" height="745" alt="image" src="https://github.com/user-attachments/assets/44ef1814-d0b0-42f9-a997-dbb97026ef05" />
 
+##### 报警管理
+
+主页点击报警管理即可进入界面
+
+<img width="1293" height="743" alt="image" src="https://github.com/user-attachments/assets/909a3583-e151-46fa-869c-e959a066cc84" />
+
+
+在此界面中可以修改冷却塔的各个指标的报警阈值，左侧设备栏可以选择目标冷却塔，在下方输入阈值然后保存修改即可。
+
+<img width="1295" height="745" alt="image" src="https://github.com/user-attachments/assets/f77057e0-6b90-4c58-a22a-aee6556094c3" />
 
 
 
